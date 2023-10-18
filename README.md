@@ -33,7 +33,7 @@ Critical thinking and problem-solving are my main.
 
 (Yes, I know that those are overly used by people in data-related fields)
 
-I'm that friend who figures out the optimal pizza slice distribution to satisfy everyone's preferences, even when one friend insists on pineapple and another is a die-hard pepperoni fan🍕🧠
+But I'm that friend who figures out the optimal pizza slice distribution to satisfy everyone's preferences, even when one friend insists on pineapple and another is a die-hard pepperoni fan🍕🧠
 
 (I also have examples in a more professional field)
 
