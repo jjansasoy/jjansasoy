@@ -13,8 +13,11 @@ Right now, I'm eager to excel in a dedicated data analytics role.
 
 # 🗂️ Projects
 
-- Covid Deaths and Vaccinations
+### Adidas Sales Data Analysis (SQL) + Visualization (Tableau)
 - Amazon Products
+- 
+
+### Amazon COMING SOON
 
 # 💡 Skills and Tools
 
