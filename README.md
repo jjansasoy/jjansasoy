@@ -25,7 +25,7 @@ Right now, I'm eager to excel in a dedicated data analytics role.
 # 💡 Skills and Tools
 
 ### Tools
-Tableau, Power BI, Python, SQL, GitHub (obviously), MiniTab, GAMS, Flexsim, ProModel, and RStudio
+Tableau, Power BI, Python, SQL, RStudio, GitHub (obviously), MiniTab, GAMS, Flexsim, and ProModel
 
 ### Skills
 
