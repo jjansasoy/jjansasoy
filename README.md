@@ -5,7 +5,7 @@ I'm a trained Engineer with a strong programming and data analysis background.
 
 When I moved to Las Vegas I started working not as an engineer but as a casino dealer... yes the ones that deal cards 🎲🃏
 
-(That was fun, but didn't last long)
+(It was fun, but didn't last long)
 
 ✍️ After my casino days, I transitioned to freelancing as an SEO Analyst and content writer--writing is one of my many passions. But I kept advancing my expertise in data analysis and programming languages through self-education and certifications.
 
