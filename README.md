@@ -22,7 +22,9 @@ Right now, I'm eager to excel in a dedicated data analytics role.
 
 ### [Covid Deaths and Vaccines Analysis (SQL) + Visualization (Tableau)](https://github.com/jjansasoy/covid-vaccines)
 
--
+- What countries have the highest infection rate?
+- How many people died from covid?
+- Continents with the highest death count per population
 
 # 💡 Skills and Tools
 
