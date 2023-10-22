@@ -20,7 +20,7 @@ Right now, I'm eager to excel in a dedicated data analytics role.
 - Which retailers have the most sales per state?
 - Are there any interesting patterns as to when customers buy more products in terms of seasonality?
 
-### Amazon COMING SOON
+### [Covid Deaths and Vaccines Analysis (SQL) + Visualization (Tableau)]
 
 # 💡 Skills and Tools
 
