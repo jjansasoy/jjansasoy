@@ -26,6 +26,8 @@ Right now, I'm eager to excel in a dedicated data analytics role.
 - How many people died from covid?
 - Continents with the highest death count per population
 
+### [Python Keyword Clustering](https://github.com/jjansasoy/python-keyword-clustering)
+
 # 💡 Skills and Tools
 
 ### Tools
