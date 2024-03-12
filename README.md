@@ -7,7 +7,7 @@ When I moved to Las Vegas I started working not as an engineer but as a casino d
 
 (It was fun, but didn't last long)
 
-✍️ After my casino days, I transitioned to freelancing as an SEO Analyst and content writer--writing is one of my many passions. But I kept advancing my expertise in data analysis and programming languages through self-education and certifications.
+✍️ After my casino days, I transitioned to being an SEO Analyst and content writer--writing is one of my many passions. But I kept advancing my expertise in data analysis and programming languages through self-education and certifications.
 
 Right now, I'm eager to excel in a dedicated data analytics role.
 
