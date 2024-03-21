@@ -1,15 +1,15 @@
 # 📌 About me
 Hi, I'm Jessica👋
 
-I'm a trained Engineer with a strong programming and data analysis background.
+I'm a trained Engineer with a strong analysis background.
 
 When I moved to Las Vegas I started working not as an engineer but as a casino dealer... yes the ones that deal cards 🎲🃏
 
 (It was fun, but didn't last long)
 
-✍️ After my casino days, I transitioned to being an SEO Analyst and content writer--writing is one of my many passions. But I kept advancing my expertise in data analysis and programming languages through self-education and certifications.
+✍️ After my casino days, I transitioned to being an SEO Analyst and content writer--writing is one of my many passions. I kept advancing my expertise in data analysis and programming languages through self-education and certifications.
 
-Right now, I'm eager to excel in a dedicated data analytics role.
+Right now, I'm eager to excel in a dedicated data analysis role.
 
 # 🗂️ Projects
 
@@ -45,6 +45,6 @@ But I'm that friend who figures out the optimal pizza slice distribution to sati
 
 # 🤝 How to reach me
 
-Shoot me an email at jcorreaprofessional@gmail.com or let's connnect on [LinkedIn](https://www.linkedin.com/in/jessica-jansasoy-data-analyst/) 
+Shoot me an email at jessica.jansasoy@gmail.com or let's connnect on [LinkedIn](https://www.linkedin.com/in/jessica-jansasoy-analyst/) 
 
 
